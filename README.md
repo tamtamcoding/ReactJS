@@ -7,5 +7,7 @@ https://drinks-cool.netlify.app/ ,
 
 https://landing-stripe.netlify.app/ , 
 
-https://stock-photo-demo.netlify.app/
+https://stock-photo-demo.netlify.app/, 
+
+https://quiz-foryourbrain.netlify.app/
 
